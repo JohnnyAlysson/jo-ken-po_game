@@ -10,6 +10,7 @@
 
 # importar libs
 import random
+from tkinter import *
 #lista com opções:
 options= ["rock","paper", "scissors"]
 # Funções com cada opção de escolha
@@ -51,3 +52,22 @@ user= treatment(user)
 # Exibir mensagem de vitória, empate, ou derrota
 print("\n ")
 ChoiceComparisson(user)
+
+
+window = Tk()
+window.title("Rock, paper or Scissors")
+welcome_text = Label(window, text=" Choose an option and try to defeat me !!!")
+welcome_text.grid(column=0, row=0)
+intructions= Label(window, text='''
+      Remember:
+        # Rock > Scissors 
+        # Scissors > Paper 
+        # Paper > Rock ''' )
+intructions.grid(column=0, row=1)
+button_img= PhotoImage(file="./assets/rock.png")
+button_rock= Button(image=button_img,command=)
+button_rock.grid(column=1,row=2)
+# button_paper=
+# button_scissors=
+
+window.mainloop()
