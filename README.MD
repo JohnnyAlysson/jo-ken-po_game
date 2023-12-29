@@ -1,30 +1,37 @@
-# Jogo pedra-papel-tesoura
+# Rock, Paper, and scissors game
 
 :fist_raised: :raised_hand_with_fingers_splayed: :v:
 
-## Descrição
+## Description
 
-Esse é um projeto de um jogo pedra-papel-tesoura criado em python, ele se baseia em um desafio proposto nas aulas de programação Full Stack da Infinity school visual art center.  
-A aplicação consiste em um jogo simples onde o usuário escolhe uma opção e recebe a mensagem informando que venceu, perdeu ou empatou.  
-Inicialmente o programa usa somente python para criação do codigo, porém tambem foram adicionados as bibliotecas random para realizar uma escolha aleatória por parte do computador e tkinter para criar uma interface gráfica simples.  
-Após a criação do programa, pretendo coloca-lo em uma interface gráfica e finalmente criar um web site ou transformar-lo em executavel para que os usuários possam acessar o conteúdo.  
+This is a python project of a rock paper and scissors game, aka Jo-ken-PO, this is based on a challenge suggested in the full stack developer course from Infinity school visual art center.         
+The application is a simple game where the user chooses an option and receives a victory, defeat or tie message.      
+Firstly I only used python for the code creation, however the further went, the more I realized I had to use other libraries like *Random* to make a random choice, and *tkinter* to create a simple UI.      
+After the creation, I wish to add and better UI and finally create a website or .exe file to be viewed by other users.    
+Finally, I'm really glad to share that I have finished this project in only one day. As a beginner for me, this is an incredible accomplishment.    
 
-## Como usar o projeto
+## How to use this project
 
-(inserir instruções)
+(in construction) 
 
-## Logica de programação e fluxograma:
+## Logic:
 
-1. importar libs.  
-2. Funções com cada opção de escolha.  
-    2.1. Imprimir o resultado dependendo da condição.
-        - Caso usuário escolha uma opção que vença computador, imprimir mensagem ***"You won!"***  
-        - Caso usuário escolha uma opção igual ao computador, imprmir mensagem   ***"It's a tie!"***   
-        - Caso usuário escolha uma opção que perca, imprimir mensagem ***"You lost!"***  
-3. Exibir mensagem de boas vindas e  explicação do jogo  
-4. Solicitar a escolha do usuário.    
-    4.1. Validar e Tratar da escolha do usuário.  
-5. Exibir mensagem de vitória, empate, ou derrota e escolhas do usuário e computador
+1. import libs.  
+2. functions for each choice.  
+3. Show a welcome message and instructions
+4. ask for the user's input  
+5. show the results:
+    - If the user chooses an option that beats the computer's, print: ***"You won!"***  
+    - if the user chooses the same option as the computer's, print:  ***"It's a tie!"***   
+    - If the computer option beats the user's, print ***"You lost!"*** 
+
+## Challenges:
+1. My first challenge was the transition between a command line program to a User interface program, previously I had created only one function to check the user's choice and return the results, compared to the computer's. Then, I had to break into 3 different functions with unique processes.   
+2. I had another challenge when I tried to put an image on a button, to serve as a visual guide to the user. I had to import PLI to manipulate the images.
+
+## references:
+1. https://www.activestate.com/resources/quick-reads/how-to-add-images-in-tkinter/  
+2. https://docs.python.org/3/library/tkinter.html
 
 <br>
 <br> 
@@ -33,4 +40,4 @@ Após a criação do programa, pretendo coloca-lo em uma interface gráfica e fi
 <img src="https://hips.hearstapps.com/hmg-prod/images/people-playing-paper-rock-scissors-royalty-free-illustration-1583269312.jpg" alt="Rock, paper and scissors" width="500"/>
 
 > [!TIP]
-> Lembre-se de colocar uma estrela nesse repositório !!!
+> Remember to put a Star in this repository and fell free to help me improve !!!
