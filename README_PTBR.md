@@ -32,5 +32,15 @@ Após a criação do programa, pretendo coloca-lo em uma interface gráfica e fi
 <br>        
 <img src="https://hips.hearstapps.com/hmg-prod/images/people-playing-paper-rock-scissors-royalty-free-illustration-1583269312.jpg" alt="Rock, paper and scissors" width="500"/>
 
+
+
+## Desafios encontrados:
+Primeiro desafio encontrado foi na transição de um programa somente em linha de comando no terminal para um programa com interface, anteriormente eu havia criado um função única para checar a escolha do usuário e retornar o resultado em comparação com a escolha da maquina. Agora precisei separar em 3 funções distintas cada uma com processos separados.
+Segundo desafio foi colocar uma imagem em um botão para servir de referencia ao usuário. Tive que importar uma segunda biblioteca para tratamento de imagens a PLI
+
+## referências:
+1. https://www.activestate.com/resources/quick-reads/how-to-add-images-in-tkinter/  
+2. https://docs.python.org/3/library/tkinter.html
+
 > [!TIP]
 > Lembre-se de colocar uma estrela nesse repositório !!!
