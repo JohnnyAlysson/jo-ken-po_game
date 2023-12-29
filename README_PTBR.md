@@ -12,7 +12,8 @@ Fico feliz por conseguir finalizar esse projeto em apenas 1 dias
 
 ## Como usar o projeto
 
-(inserir instruções)
+(Em progresso)
+É necessário instalar o Pli com o comando -m pip install Pillow
 
 ## Logica de programação e fluxograma:
 
