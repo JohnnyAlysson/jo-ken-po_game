@@ -11,7 +11,7 @@
 # importar libs e assets
 import random
 from tkinter import *
-from PIL import Image , ImageTk
+# from PIL import Image , ImageTk
 
 #lista com opções:
 options= ["rock","paper", "scissors"]
