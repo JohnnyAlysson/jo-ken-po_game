@@ -4,16 +4,13 @@
 
 ## table of contents
 
-<p align="left">
+<p align = "left" >
 
-     <a href="#description"> > Description</a>
+<a href="#description">  Description </a>
 
-    <a href="#use"> > How to use this projec</a>
+<a href="#use">  How to use this projec </a>
 
-     <a href="#logic"> >Programs' logic</a>
-
-     <a href="#logica"> > Lógica</a>
-
+<a href="#logic"> Programs' logic </a>
 </p>
 
 <h2 id=description> Description </h2>
