@@ -2,7 +2,21 @@
 
 :fist_raised: :raised_hand_with_fingers_splayed: :v:
 
-## Description
+## table of contents
+
+<p align="left">
+
+     <a href="#description"> > Description</a>
+
+    <a href="#use"> > How to use this projec</a>
+
+     <a href="#logic"> >Programs' logic</a>
+
+     <a href="#logica"> > Lógica</a>
+
+</p>
+
+<h2 id=description> Description </h2>
 
 This is a python project of a rock paper and scissors game, aka Jo-ken-PO, this is based on a challenge suggested in the full stack developer course from Infinity school visual art center.         
 The application is a simple game where the user chooses an option and receives a victory, defeat or tie message.      
@@ -10,11 +24,11 @@ Firstly I only used python for the code creation, however the further went, the 
 After the creation, I wish to add and better UI and finally create a website or .exe file to be viewed by other users.    
 Finally, I'm really glad to share that I have finished this project in only one day. As a beginner for me, this is an incredible accomplishment.    
 
-## How to use this project
+<h2 id=use > How to use this project </h2>
 
 (in construction) 
 
-## Logic:
+<h2 id=logic> Programs' logic </h2>
 
 1. import libs.  
 2. functions for each choice.  
